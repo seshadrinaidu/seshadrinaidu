@@ -4,98 +4,271 @@
 
 # 👋 Hi, I'm Seshadri Naidu
 
-### ☕ Java Backend Developer | Software Engineer
+### ☕ Java Backend Developer | Spring Boot Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Building+Scalable+Backend+Systems;Data+Structures+%26+Algorithms;Spring+Boot+%26+REST+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Learner;Building+Real+World+Backend+Projects;Learning+DSA+Every+Day;Future+Software+Engineer" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/seshadrinaidu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/seshadrinaidu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:seshadrinaidu454@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<p>
+
+<a href="https://github.com/seshadrinaidu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/seshadrinaidu/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:seshadrinaidu454@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
 </p>
 
 </div>
 
 ---
 
-## ⚡ Quick Overview
+# 💡 About Me
 
-| Category | Details |
-| :--- | :--- |
-| **Education** | MCA Graduate |
-| **Core Specialization** | Backend Engineering, Core Java, Relational Databases (SQL) |
-| **Current Focus** | Spring Boot, RESTful API Design, Microservices Architecture |
-| **Problem Solving** | Daily Data Structures & Algorithms Practice |
+I am an **MCA Graduate** currently focused on becoming a **Java Backend Developer**.
 
----
+Rather than rushing through frameworks, I believe in mastering the fundamentals first. Every day I practice Java, solve Data Structures & Algorithms problems, build backend applications, and document my learning journey on GitHub.
 
-## 💡 About Me
-
-I am an **MCA Graduate** passionate about building robust, scalable backend systems. My engineering mindset focuses on mastering fundamentals—OOP principles, database optimization, and efficient data structures—before leveraging complex frameworks.
-
-- ⚙️ **Backend Engineering:** Building REST APIs, working with ORMs, and writing clean, maintainable code.
-- 🎯 **Continuous Improvement:** Daily DSA problem-solving and hands-on system architectural design.
-- 📖 **Open Source & Documentation:** Documenting my engineering projects, workflows, and codebases clearly on GitHub.
+I enjoy understanding how software works internally and applying that knowledge by building real-world backend projects.
 
 ---
 
-## 🛠 Tech Stack
+# 🎯 Current Focus
 
-### Languages & Core
+- ☕ Mastering Core Java
+- 🌱 Learning Spring Boot
+- 🧠 Solving Data Structures & Algorithms Daily
+- 🗄 Strengthening SQL & Database Design
+- 🚀 Building Real Backend Applications
+- 📖 Learning System Design Fundamentals
+- 🔧 Improving Git & GitHub Workflow
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js" alt="Languages" />
+
+<img src="https://skillicons.dev/icons?i=java,mysql"/>
+
 </p>
 
-### Backend & Database
+### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql" alt="Backend & DB" />
+
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+
 </p>
 
-### DevOps & Tools
+### Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,idea,vscode,linux" alt="Tools" />
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📚 Learning Roadmap
 
-### 🚚 LogiPulse — AI-Powered Logistics Optimization Platform
-> *Production-style enterprise platform designed to manage and optimize complex logistics workflows.*
+## ✅ Completed
 
-* **Tech Stack:** Java, Spring Boot, MySQL, REST APIs, Docker, Maven
-* **Key Features:**
-  * Modular backend structure utilizing RESTful services.
-  * Relational database schemas structured for optimal querying performance.
-  * Dockerized setup for scalable deployment.
-* **Status:** 🟢 Active Development | [<img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/seshadrinaidu)
+- Core Java
+- Object Oriented Programming
+- Collections Framework
+- Exception Handling
+- JDBC
+- SQL & MySQL
+- Git & GitHub
 
----
+## 🔄 Currently Learning
 
-### ☕ Java Logic Building & DSA Collection
-> *Comprehensive repository focused on algorithm design, data structures, and problem-solving patterns.*
+- Spring Boot
+- REST APIs
+- Maven
+- Backend Development
+- Clean Architecture
 
-* **Key Topics:** Arrays, Strings, Two Pointers, Sliding Window, HashMaps, Searching & Sorting algorithms.
-* **Goal:** Building clean, time-and-space-efficient solutions for real-world compute challenges.
-* **Status:** 🟢 Active Practice | [<img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/seshadrinaidu)
+## ⏳ Upcoming
 
----
-
-### 💾 JDBC CRUD System
-> *Relational database integration application showcasing raw database operations and transaction handling.*
-
-* **Tech Stack:** Core Java, JDBC API, MySQL, SQL
-* **Key Features:**
-  * Implemented safe query execution with `PreparedStatement` to prevent SQL Injection.
-  * Structured error management and connection handling architecture.
-* **Status:** ✅ Completed | [<img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/seshadrinaidu)
+- Docker
+- Redis
+- Kafka
+- AWS
+- Microservices
+- System Design
 
 ---
 
-## 🗺️ Engineering Growth & Roadmap
+# 🚀 Featured Projects
+
+## 🚚 LogiPluse
+
+**AI-Powered Enterprise Logistics Optimization Platform**
+
+### Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- Docker *(Learning)*
+
+### Status
+
+🟢 Active Development
+
+**Goal**
+
+Building a production-style logistics platform inspired by real-world logistics companies.
+
+---
+
+## ☕ Java Logic Building
+
+Daily Java logic-building repository focused on mastering problem-solving through consistent practice.
+
+### Topics Covered
+
+- Loops
+- Patterns
+- Arrays
+- Strings
+- Two Pointers
+- Sliding Window
+- HashMap
+- Searching
+- Sorting
+
+🟢 Active Repository
+
+---
+
+## 💾 JDBC CRUD
+
+Java + JDBC + MySQL application demonstrating complete CRUD operations.
+
+### Concepts
+
+- JDBC
+- PreparedStatement
+- CRUD Operations
+- SQL
+- Exception Handling
+
+✅ Completed
+
+---
+
+# 📖 What I'm Learning This Week
+
+- Spring Boot
+- REST Controllers
+- Dependency Injection
+- REST API Development
+- Backend Best Practices
+
+---
+
+# 🏆 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=seshadrinaidu&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Open Source Goal
+
+I plan to start contributing to Java and Spring Boot open-source projects after strengthening my backend development skills through production-style projects.
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Core Java
+- ✅ Master Spring Boot
+- ✅ Build Production-Ready Backend Applications
+- ✅ Learn Docker
+- ✅ Learn Redis
+- ✅ Learn Kafka
+- ✅ Learn AWS Fundamentals
+- ✅ Learn Microservices
+- ✅ Contribute to Open Source
+- ✅ Get My First Software Engineering Job
+
+---
+
+# 💭 Learning Philosophy
+
+```
+Understand
+      ↓
+Practice
+      ↓
+Build
+      ↓
+Document
+      ↓
+Improve
+      ↓
+Repeat
+```
+
+---
+
+# 💬 Favorite Quote
+
+> **"Great software isn't built by memorizing frameworks. It's built by understanding fundamentals."**
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/seshadrinaidu">
+
+<img src="https://img.shields.io/badge/GitHub-seshadrinaidu-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/seshadrinaidu/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Seshadri%20Naidu-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:seshadrinaidu454@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-seshadrinaidu454%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile!
+
+### *"Consistency beats intensity. Learn every day. Build every week."*
+
+**Java Backend Developer in Progress ☕**
+
+</div>
