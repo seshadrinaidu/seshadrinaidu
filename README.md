@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/seshadrinaidu/seshadrinaidu/main/git.png" width="100%" alt="Banner"/>
 
 # Hi 👋, I'm Seshadri Naidu
 
