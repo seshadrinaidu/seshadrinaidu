@@ -98,6 +98,29 @@ Java • C • HTML • CSS • JavaScript
 ---
 
 ## 🚀 Featured Projects
+🏏 Local Cricket Stats — Full-Stack Web Application
+
+A deployed full-stack application for managing cricket batting records, demonstrating frontend-to-backend communication and database integration.
+
+Features
+
+View batting records
+
+Add new batting records
+
+Delete batting records
+
+Connect a React frontend with a Spring Boot REST API
+
+Store records in a MySQL database
+
+Tech Stack: React • Java • Spring Boot • REST API • MySQL
+
+🔗 Live Demo
+
+💻 Frontend Repository
+
+⚙️ Backend Repository
 
 ### 🚚 LogiPluse
 **Status:** 🟢 Under Development
