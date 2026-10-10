@@ -98,29 +98,28 @@ Java • C • HTML • CSS • JavaScript
 ---
 
 ## 🚀 Featured Projects
-🏏 Local Cricket Stats — Full-Stack Web Application
 
-A deployed full-stack application for managing cricket batting records, demonstrating frontend-to-backend communication and database integration.
+### 🏏 Local Cricket Stats — Full-Stack Web Application
 
-Features
+A deployed full-stack application for managing cricket batting records, built with React, Spring Boot, and MySQL.
 
-View batting records
+**Features**
+- View batting records
+- Add new batting records
+- Delete batting records
+- Integrate a React frontend with a Spring Boot REST API
+- Store records in a MySQL database
 
-Add new batting records
+**Tech Stack:** React • Java • Spring Boot • REST API • MySQL
 
-Delete batting records
+🔗 [Live Demo](https://local-cricket-stats-frontend.vercel.app/)
 
-Connect a React frontend with a Spring Boot REST API
+💻 [Frontend Repository](https://github.com/seshadrinaidu/local-cricket-stats-frontend)
 
-Store records in a MySQL database
+⚙️ [Backend Repository](https://github.com/seshadrinaidu/local-cricket-stats-backend)
 
-Tech Stack: React • Java • Spring Boot • REST API • MySQL
+---
 
-🔗 Live Demo
-
-💻 Frontend Repository
-
-⚙️ Backend Repository
 
 ### 🚚 LogiPluse
 **Status:** 🟢 Under Development
