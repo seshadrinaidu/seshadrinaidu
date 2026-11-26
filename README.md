@@ -109,6 +109,8 @@ Contributed to the backend development of **SkillBridge AI**, an AI-powered stud
 
 [![Hackathon Project](https://img.shields.io/badge/EXPLORE_HACKATHON_PROJECT-D4AF37?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/skillbridge)
 
+**GitHub Repository:** [seshadrinaidu/skillbridge](https://github.com/seshadrinaidu/skillbridge)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Gradient Divider"/>
@@ -150,7 +152,11 @@ An AI-powered student learning platform developed during HACK QUEST 1.0, focused
 
 Java · Spring Boot · Spring Security · Spring Data JPA · MySQL · React · Generative AI
 
-[![Project Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/skillbridge)
+**🔗 Project Links**
+
+[![GitHub Repository](https://img.shields.io/badge/GITHUB_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/skillbridge)
+
+- **Source Code:** [seshadrinaidu/skillbridge](https://github.com/seshadrinaidu/skillbridge)
 
 ---
 
@@ -177,9 +183,15 @@ A full-stack cricket statistics application for managing batting records and ana
 
 Java · Spring Boot · React · REST APIs · MySQL
 
+**🔗 Project Links**
+
 [![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://local-cricket-stats-frontend.vercel.app/)
 [![Backend](https://img.shields.io/badge/BACKEND_CODE-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/local-cricket-stats-backend)
 [![Frontend](https://img.shields.io/badge/FRONTEND_CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/local-cricket-stats-frontend)
+
+- **Live Application:** [Local Cricket Stats](https://local-cricket-stats-frontend.vercel.app/)
+- **Backend Repository:** [seshadrinaidu/local-cricket-stats-backend](https://github.com/seshadrinaidu/local-cricket-stats-backend)
+- **Frontend Repository:** [seshadrinaidu/local-cricket-stats-frontend](https://github.com/seshadrinaidu/local-cricket-stats-frontend)
 
 ---
 
@@ -204,7 +216,11 @@ A backend authentication application focused on secure registration and login wo
 
 Java · Spring Boot · Spring Security · Spring Data JPA · MySQL
 
-[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/secureauth-backend)
+**🔗 Project Links**
+
+[![GitHub Repository](https://img.shields.io/badge/GITHUB_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/secureauth-backend)
+
+- **Backend Repository:** [seshadrinaidu/secureauth-backend](https://github.com/seshadrinaidu/secureauth-backend)
 
 ---
 
@@ -228,7 +244,11 @@ A database-driven REST API for managing restaurants and their associated food it
 
 Java · Spring Boot · Spring Data JPA · Hibernate · MySQL
 
-[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/restaurant-api)
+**🔗 Project Links**
+
+[![GitHub Repository](https://img.shields.io/badge/GITHUB_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/restaurant-api)
+
+- **Backend Repository:** [seshadrinaidu/restaurant-api](https://github.com/seshadrinaidu/restaurant-api)
 
 ---
 
@@ -252,7 +272,11 @@ A logistics optimization platform inspired by real-world transportation and supp
 
 Java · Spring Boot · MySQL · REST APIs · Maven
 
-[![Project Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/LogiPluse)
+**🔗 Project Links**
+
+[![GitHub Repository](https://img.shields.io/badge/GITHUB_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/LogiPluse)
+
+- **Project Repository:** [seshadrinaidu/LogiPluse](https://github.com/seshadrinaidu/LogiPluse)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Gradient Divider"/>
 
@@ -358,18 +382,21 @@ Building strong analytical thinking through consistent Java programming and algo
 
 ### Java Practice Repositories
 
-| Repository | Focus |
-| :--- | :--- |
-| [VCubeLabJava](https://github.com/seshadrinaidu/VCubeLabJava) | Core Java, OOP and daily programming |
-| [Java Logic Building](https://github.com/seshadrinaidu/Java-Logic-Building) | DSA and algorithmic problem solving |
-| [Java POC Projects](https://github.com/seshadrinaidu/Java-POC-Projects) | Practical Java applications |
-| JDBC CRUD | Database connectivity and PreparedStatement |
+| Repository | Focus | GitHub |
+| :--- | :--- | :--- |
+| VCubeLabJava | Core Java, OOP and daily programming | [View Repository](https://github.com/seshadrinaidu/VCubeLabJava) |
+| Java Logic Building | DSA and algorithmic problem solving | [View Repository](https://github.com/seshadrinaidu/Java-Logic-Building) |
+| Java POC Projects | Practical Java applications | [View Repository](https://github.com/seshadrinaidu/Java-POC-Projects) |
+| JDBC CRUD | Database connectivity and PreparedStatement | [Explore Repositories](https://github.com/seshadrinaidu?tab=repositories) |
 
 <div align="center">
 
 [![Java Practice](https://img.shields.io/badge/JAVA_PRACTICE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/seshadrinaidu/VCubeLabJava)
 [![DSA](https://img.shields.io/badge/DSA_PRACTICE-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/Java-Logic-Building)
+[![Java Projects](https://img.shields.io/badge/JAVA_POC_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/Java-POC-Projects)
 [![HackerRank](https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/seshadrinaidu454)
+
+[![All Repositories](https://img.shields.io/badge/EXPLORE_ALL_GITHUB_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu?tab=repositories)
 
 </div>
 
@@ -410,10 +437,12 @@ Building strong analytical thinking through consistent Java programming and algo
 <div align="center">
 
 <a href="https://github.com/seshadrinaidu">
-  <img width="100%" src="https://ghchart.rshah.org/39d353/seshadrinaidu" alt="GitHub Green Contribution Calendar"/>
+  <img width="100%" src="https://ghchart.rshah.org/seshadrinaidu" alt="GitHub Contribution Calendar"/>
 </a>
 
 **Every contribution represents progress.**
+
+[![View Contributions](https://img.shields.io/badge/VIEW_GITHUB_CONTRIBUTIONS-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu)
 
 </div>
 
