@@ -1,11 +1,11 @@
 
 <!-- ===================================================== -->
-<!--                   GRADIENT HEADER                     -->
+<!--                  PROFESSIONAL HEADER                  -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:1E3A8A,75:2563EB,100:38BDF8&height=110&section=header&animation=twinkling" alt="Gradient Header"/>
+<img src="assets/floating-lights.svg" width="100%" alt="Animated pastel gradient and floating lights"/>
 
 <img src="https://raw.githubusercontent.com/seshadrinaidu/seshadrinaidu/main/git.png" width="100%" alt="Seshadri Naidu Banner"/>
 
@@ -32,7 +32,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider"/>
+---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 <!-- ===================================================== -->
 <!--                       ABOUT ME                        -->
@@ -71,17 +73,19 @@ public class Developer {
 - 🧠 Practicing Data Structures and Algorithms.
 - 🎯 Open to entry-level software engineering opportunities.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider"/>
+---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 <!-- ===================================================== -->
-<!--                     ACHIEVEMENTS                      -->
+<!--                    ACHIEVEMENTS                       -->
 <!-- ===================================================== -->
 
 ## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HACKATHON-RUNNER--UP-D4AF37?style=for-the-badge" alt="Hackathon Runner-up"/>
+<img src="https://img.shields.io/badge/🏆_HACKATHON-RUNNER--UP-D4AF37?style=for-the-badge" alt="Hackathon Runner-up"/>
 
 ### Vcube Java Fullstack with Gen AI & FDE HACK QUEST 1.0
 
@@ -105,7 +109,9 @@ Contributed to the backend development of **SkillBridge AI**, an AI-powered stud
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider"/>
+---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 <!-- ===================================================== -->
 <!--                  FEATURED PROJECTS                    -->
@@ -113,7 +119,7 @@ Contributed to the backend development of **SkillBridge AI**, an AI-powered stud
 
 ## 🚀 Featured Engineering Projects
 
-### 01. SkillBridge AI — AI-Powered Student Learning Platform
+### 🥇 01. SkillBridge AI — AI-Powered Student Learning Platform
 
 ![Achievement](https://img.shields.io/badge/Hackathon-Runner--up-D4AF37?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-EdTech-2563EB?style=flat-square)
@@ -142,6 +148,8 @@ Java · Spring Boot · Spring Security · Spring Data JPA · MySQL · React · G
 
 ---
 
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
+
 ### 🏏 02. Local Cricket Stats — Full-Stack Application
 
 ![Status](https://img.shields.io/badge/Status-Deployed-16A34A?style=flat-square)
@@ -165,11 +173,13 @@ A full-stack cricket statistics application for managing batting records and ana
 
 Java · Spring Boot · React · REST APIs · MySQL
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://local-cricket-stats-frontend.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://local-cricket-stats-frontend.vercel.app/)
 [![Backend](https://img.shields.io/badge/BACKEND_CODE-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/local-cricket-stats-backend)
 [![Frontend](https://img.shields.io/badge/FRONTEND_CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/local-cricket-stats-frontend)
 
 ---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 ### 🔐 03. SecureAuth — Authentication System
 
@@ -196,6 +206,8 @@ Java · Spring Boot · Spring Security · Spring Data JPA · MySQL
 
 ---
 
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
+
 ### 🍽️ 04. Restaurant Management REST API
 
 ![Category](https://img.shields.io/badge/Category-Backend_Engineering-2563EB?style=flat-square)
@@ -220,6 +232,8 @@ Java · Spring Boot · Spring Data JPA · Hibernate · MySQL
 
 ---
 
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
+
 ### 🚚 05. LogiPluse — AI Logistics Optimization Platform
 
 ![Status](https://img.shields.io/badge/Status-Under_Development-EAB308?style=flat-square)
@@ -242,7 +256,9 @@ Java · Spring Boot · MySQL · REST APIs · Maven
 
 [![Project Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/LogiPluse)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider"/>
+---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 <!-- ===================================================== -->
 <!--                    TECHNICAL SKILLS                   -->
@@ -293,10 +309,12 @@ Java · Spring Boot · MySQL · REST APIs · Maven
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider"/>
+---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 <!-- ===================================================== -->
-<!--                 BACKEND ENGINEERING                   -->
+<!--                BACKEND ENGINEERING                    -->
 <!-- ===================================================== -->
 
 ## ⚙️ Backend Engineering Capabilities
@@ -314,7 +332,9 @@ Java · Spring Boot · MySQL · REST APIs · Maven
 | 🔄 Version Control | Git, GitHub |
 | 🤖 AI Integration | Spring AI, LLM APIs, RAG |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider"/>
+---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 <!-- ===================================================== -->
 <!--                    PROBLEM SOLVING                    -->
@@ -353,10 +373,12 @@ Building strong analytical thinking through consistent Java programming and algo
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider"/>
+---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 <!-- ===================================================== -->
-<!--                    GITHUB ANALYTICS                   -->
+<!--                    GITHUB STATISTICS                  -->
 <!-- ===================================================== -->
 
 ## 📊 GitHub Analytics
@@ -369,8 +391,6 @@ Building strong analytical thinking through consistent Java programming and algo
 
 </div>
 
-<!-- ================= CONTRIBUTION STREAK ================= -->
-
 ### 🔥 Contribution Streak
 
 <div align="center">
@@ -378,8 +398,6 @@ Building strong analytical thinking through consistent Java programming and algo
 <img width="75%" src="https://streak-stats.demolab.com?user=seshadrinaidu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
-
-<!-- ================= CONTRIBUTION CALENDAR ================ -->
 
 ### 🟩 GitHub Contribution Calendar
 
@@ -389,21 +407,19 @@ Building strong analytical thinking through consistent Java programming and algo
   <img width="100%" src="https://ghchart.rshah.org/39d353/seshadrinaidu" alt="GitHub Green Contribution Calendar"/>
 </a>
 
-**Consistency today builds expertise tomorrow.**
-
 </div>
-
-<!-- ================= ACTIVITY GRAPH ======================= -->
 
 ### 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seshadrinaidu&theme=tokyo-night&hide_border=true&area=true&line=38bdf8&point=ffffff&color=38bdf8" alt="GitHub Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seshadrinaidu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider"/>
+---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 <!-- ===================================================== -->
 <!--                    CURRENT LEARNING                   -->
@@ -426,7 +442,9 @@ Building strong analytical thinking through consistent Java programming and algo
 | Microservices | Distributed Backend Architecture |
 | System Design | Backend System Design |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider"/>
+---
+
+<img src="assets/gradient-divider.svg" width="100%" alt="Animated gradient light divider"/>
 
 <!-- ===================================================== -->
 <!--                       CONTACT                         -->
@@ -445,10 +463,8 @@ I am open to entry-level Java backend development and software engineering oppor
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Understand+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Improve;Strong+Fundamentals.+Meaningful+Engineering.;Thank+You+for+Visiting+My+Profile!" alt="Animated Footer Message"/>
 
-<br/>
+<img src="assets/floating-lights.svg" width="100%" alt="Animated pastel gradient and floating lights"/>
 
-**Strong Fundamentals. Consistent Practice. Meaningful Engineering.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:1E3A8A,75:2563EB,100:38BDF8&height=150&section=footer&animation=twinkling&text=Keep%20Building%20Keep%20Growing&fontSize=20&fontColor=FFFFFF&fontAlignY=75" alt="Gradient Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=120&section=footer&animation=twinkling" width="100%" alt="Animated Footer"/>
 
 </div>
