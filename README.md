@@ -428,23 +428,6 @@ Building strong analytical thinking through consistent Java programming and algo
 
 </div>
 
-<!-- ===================================================== -->
-<!--              NORMAL GREEN CONTRIBUTIONS               -->
-<!-- ===================================================== -->
-
-### 🟩 GitHub Contribution Calendar
-
-<div align="center">
-
-<a href="https://github.com/seshadrinaidu">
-  <img width="100%" src="https://ghchart.rshah.org/seshadrinaidu" alt="GitHub Contribution Calendar"/>
-</a>
-
-**Every contribution represents progress.**
-
-[![View Contributions](https://img.shields.io/badge/VIEW_GITHUB_CONTRIBUTIONS-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu)
-
-</div>
 
 ### 📈 Contribution Activity
 
