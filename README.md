@@ -1,5 +1,7 @@
 
-<!-- ==================== PROFILE HEADER ==================== -->
+<!-- ===================================================== -->
+<!--                  PROFESSIONAL HEADER                  -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -7,47 +9,77 @@
 
 # Mudi Seshadri Naidu
 
-### Java Backend Developer | MCA Graduate | Hackathon Runner-up
+<a href="https://github.com/seshadrinaidu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;MCA+Graduate;Hackathon+Runner-up;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+AI-Powered+Applications;Turning+Ideas+into+Working+Software" alt="Animated Professional Introduction"/>
+</a>
 
-**Java · Spring Boot · Spring Security · REST APIs · MySQL · AI Integration**
+<br/>
 
-Building reliable backend applications, solving challenging problems, and transforming ideas into working software.
+![Java Developer](https://img.shields.io/badge/Java-Backend_Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MCA](https://img.shields.io/badge/Education-MCA_Graduate-2563EB?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/Hackathon-Runner--up-D4AF37?style=for-the-badge)
+
+**Building reliable backend applications with Java, Spring Boot, REST APIs and MySQL.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seshadrinaidu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/seshadrinaidu454)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seshadrinaidu454@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=seshadrinaidu&label=Profile%20Views&color=2563eb&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=seshadrinaidu&label=Profile%20Visitors&color=0e75b6&style=flat-square)
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
 
 ## 👨‍💻 About Me
 
-I am an MCA graduate specializing in Java backend development, with hands-on experience building RESTful APIs, database-driven applications, authentication systems, and AI-integrated applications.
+I am an MCA graduate specializing in Java backend development, with hands-on experience building RESTful APIs, database-driven applications, authentication systems and AI-integrated applications.
 
-I enjoy understanding software engineering fundamentals, solving problems, and developing applications inspired by real-world business requirements.
+I enjoy solving technical problems, understanding software engineering fundamentals and transforming ideas into functional applications.
 
-- ☕ Developing backend applications using Java and Spring Boot.
-- 🔐 Building authentication systems and secure REST APIs.
-- 🗄️ Working with relational databases and MySQL.
-- 🤖 Exploring AI integration, Spring AI, and RAG.
-- 🧠 Strengthening Data Structures and Algorithms through consistent practice.
-- 🎯 Open to entry-level Java Developer, Backend Developer, and Software Engineer opportunities.
+```java
+public class Developer {
+
+    String name = "Mudi Seshadri Naidu";
+    String education = "MCA";
+    String specialization = "Java Backend Development";
+    String achievement = "Hackathon Runner-up";
+
+    String[] interests = {
+        "Backend Engineering",
+        "Data Structures and Algorithms",
+        "Application Security",
+        "Generative AI",
+        "System Design"
+    };
+
+    boolean openToWork = true;
+}
+```
+
+- 🔭 Building backend applications with Java and Spring Boot.
+- 🔐 Working with Spring Security and authentication systems.
+- 🗄️ Developing database-driven applications using MySQL.
+- 🤖 Exploring Generative AI, Spring AI and RAG.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🎯 Open to entry-level software engineering opportunities.
 
 ---
 
-<!-- ==================== ACHIEVEMENTS ==================== -->
+<!-- ===================================================== -->
+<!--                    ACHIEVEMENTS                       -->
+<!-- ===================================================== -->
 
 ## 🏆 Achievements
 
 <div align="center">
 
-![Hackathon Runner-up](https://img.shields.io/badge/ACHIEVEMENT-HACKATHON%20RUNNER--UP-D4AF37?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/🏆_HACKATHON-RUNNER--UP-D4AF37?style=for-the-badge" alt="Hackathon Runner-up"/>
 
 ### Vcube Java Fullstack with Gen AI & FDE HACK QUEST 1.0
 
@@ -59,61 +91,71 @@ I enjoy understanding software engineering fundamentals, solving problems, and d
 | :--- | :--- |
 | 🏆 Achievement | Hackathon Runner-up |
 | 🚀 Project | SkillBridge AI |
-| 🎓 Domain | EdTech |
 | 👨‍💻 Role | Backend Developer |
-| ⚙️ Technologies | Java, Spring Boot, MySQL, React, AI |
+| 🎓 Domain | Education Technology |
+| ⚙️ Technology | Java Full Stack & Generative AI |
 
-Contributed to the development of SkillBridge AI, an AI-powered student learning and placement preparation platform designed to improve personalized learning, technical skill development, and career readiness.
+Contributed to the backend development of **SkillBridge AI**, an AI-powered student learning and placement preparation platform designed to support personalized education and technical skill development.
 
-[![Hackathon Project](https://img.shields.io/badge/View_Hackathon_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/skillbridge)
+<div align="center">
+
+[![Hackathon Project](https://img.shields.io/badge/EXPLORE_HACKATHON_PROJECT-D4AF37?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/skillbridge)
+
+</div>
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                    -->
+<!-- ===================================================== -->
 
 ## 🚀 Featured Engineering Projects
 
-### 01. SkillBridge AI — AI-Powered Student Learning Platform
+### 🥇 01. SkillBridge AI — AI-Powered Student Learning Platform
 
 ![Achievement](https://img.shields.io/badge/Hackathon-Runner--up-D4AF37?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-EdTech-2563EB?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Generative_AI-7C3AED?style=flat-square)
 
-An AI-powered educational platform developed during HACK QUEST 1.0, designed to support personalized learning, student performance tracking, and placement preparation.
+An AI-powered student learning platform developed during HACK QUEST 1.0, focused on personalized learning, skill development and placement preparation.
 
-**Backend Features**
+**Backend Highlights**
 
 - Student and trainer registration.
-- JWT-based authentication and role-based authorization.
-- Course management and student enrollment.
-- Assessments and student performance tracking.
-- RESTful API development.
+- JWT-based authentication.
+- Role-based authorization.
+- Course management and enrollment.
+- Assessments and performance tracking.
+- REST API development.
+- Database integration.
 - AI-powered learning and interview preparation workflows.
 
 **Technology Stack**
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,maven" alt="SkillBridge AI Technologies"/>
 
-Java · Spring Boot · Spring Security · Spring Data JPA · MySQL · React · AI Integration
+Java · Spring Boot · Spring Security · Spring Data JPA · MySQL · React · Generative AI
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/skillbridge)
+[![Project Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/skillbridge)
 
 ---
 
-### 02. Local Cricket Stats — Full-Stack Web Application
+### 🏏 02. Local Cricket Stats — Full-Stack Application
 
 ![Status](https://img.shields.io/badge/Status-Deployed-16A34A?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Full_Stack-2563EB?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Full_Stack-2563EB?style=flat-square)
 
 A full-stack cricket statistics application for managing batting records and analyzing player performance.
 
 **Key Features**
 
-- Create, view, update, and delete batting records.
+- Complete CRUD operations.
+- Cricket batting record management.
 - Player performance statistics.
 - Strike-rate calculation.
-- React frontend integrated with Spring Boot REST APIs.
+- React frontend.
+- Spring Boot REST APIs.
 - MySQL database persistence.
-- Request validation and exception handling.
 
 **Technology Stack**
 
@@ -121,17 +163,17 @@ A full-stack cricket statistics application for managing batting records and ana
 
 Java · Spring Boot · React · REST APIs · MySQL
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://local-cricket-stats-frontend.vercel.app/)
-[![Backend](https://img.shields.io/badge/BACKEND-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/local-cricket-stats-backend)
-[![Frontend](https://img.shields.io/badge/FRONTEND-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/local-cricket-stats-frontend)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://local-cricket-stats-frontend.vercel.app/)
+[![Backend](https://img.shields.io/badge/BACKEND_CODE-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/local-cricket-stats-backend)
+[![Frontend](https://img.shields.io/badge/FRONTEND_CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/local-cricket-stats-frontend)
 
 ---
 
-### 03. SecureAuth — Authentication System
+### 🔐 03. SecureAuth — Authentication System
 
 ![Category](https://img.shields.io/badge/Category-Application_Security-DC2626?style=flat-square)
 
-A backend authentication application focused on secure user registration, login, and account management.
+A backend authentication application focused on secure registration and login workflows.
 
 **Key Features**
 
@@ -148,22 +190,21 @@ A backend authentication application focused on secure user registration, login,
 
 Java · Spring Boot · Spring Security · Spring Data JPA · MySQL
 
-[![Backend Repository](https://img.shields.io/badge/BACKEND_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/secureauth-backend)
+[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/secureauth-backend)
 
 ---
 
-### 04. Restaurant Management REST API
+### 🍽️ 04. Restaurant Management REST API
 
-![Category](https://img.shields.io/badge/Category-Backend_Development-2563EB?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Backend_Engineering-2563EB?style=flat-square)
 
 A database-driven REST API for managing restaurants and their associated food items.
 
 **Key Features**
 
-- Restaurant management.
-- Food management and CRUD operations.
+- Restaurant and food management.
+- RESTful CRUD operations.
 - JPA entity relationships.
-- RESTful API architecture.
 - Global exception handling.
 - MySQL database integration.
 
@@ -173,23 +214,23 @@ A database-driven REST API for managing restaurants and their associated food it
 
 Java · Spring Boot · Spring Data JPA · Hibernate · MySQL
 
-[![Backend Repository](https://img.shields.io/badge/BACKEND_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/restaurant-api)
+[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/restaurant-api)
 
 ---
 
-### 05. LogiPluse — AI Logistics Optimization Platform
+### 🚚 05. LogiPluse — AI Logistics Optimization Platform
 
 ![Status](https://img.shields.io/badge/Status-Under_Development-EAB308?style=flat-square)
 
-A logistics platform inspired by real-world transportation and supply chain management systems.
+A logistics optimization platform inspired by real-world transportation and supply chain management systems.
 
-**Project Focus**
+**Development Focus**
 
-- Logistics management architecture.
-- Backend system design.
+- Backend architecture.
+- Logistics management.
 - Relational database design.
 - REST API development.
-- Planned AI-powered logistics optimization.
+- Planned AI-powered optimization.
 
 **Technology Stack**
 
@@ -197,35 +238,39 @@ A logistics platform inspired by real-world transportation and supply chain mana
 
 Java · Spring Boot · MySQL · REST APIs · Maven
 
-[![Project Repository](https://img.shields.io/badge/PROJECT_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/LogiPluse)
+[![Project Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/LogiPluse)
 
 ---
 
-<!-- ==================== TECHNICAL SKILLS ==================== -->
+<!-- ===================================================== -->
+<!--                    TECHNICAL SKILLS                   -->
+<!-- ===================================================== -->
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
+
+<div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,js" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=java,js&perline=8" alt="Programming Languages"/>
 
 **Java · SQL · JavaScript**
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" alt="Backend Development"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&perline=8" alt="Backend Development"/>
 
 **Spring Boot · Spring MVC · Spring Data JPA · Hibernate · JDBC · REST APIs · Spring Security · JWT**
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database"/>
 
-**MySQL · SQL Queries · Joins · Subqueries · Database Relationships**
+**MySQL · SQL Queries · Joins · Subqueries · Relational Database Design**
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Development"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8" alt="Frontend Development"/>
 
 **HTML5 · CSS3 · JavaScript · React.js**
 
@@ -236,115 +281,150 @@ Java · Spring Boot · MySQL · REST APIs · Maven
 ![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM_Integration-111827?style=for-the-badge)
 
-**Spring AI · LLM Integration · Retrieval-Augmented Generation · Document Question Answering**
+**Spring AI · LLM APIs · Retrieval-Augmented Generation · Document Question Answering**
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode&perline=8" alt="Development Tools"/>
 
 **Git · GitHub · Maven · Postman · IntelliJ IDEA · VS Code · Swagger/OpenAPI · MySQL Workbench**
-
----
-
-<!-- ==================== BACKEND ENGINEERING ==================== -->
-
-## ⚙️ Backend Engineering
-
-| Engineering Area | Technical Knowledge |
-| :--- | :--- |
-| Core Java | OOP, Collections, Constructors, Exception Handling |
-| Architecture | Controller, Service, Repository Layers |
-| API Development | REST APIs, CRUD Operations, DTOs |
-| Database | JDBC, JPA, Hibernate, MySQL |
-| Security | Spring Security, JWT, Password Hashing |
-| Reliability | Bean Validation, Global Exception Handling |
-| API Documentation | Swagger, OpenAPI |
-| API Testing | Postman |
-| Version Control | Git, GitHub |
-| AI Integration | Spring AI, LLM APIs, RAG |
-
----
-
-<!-- ==================== PROBLEM SOLVING ==================== -->
-
-## 🧠 Data Structures & Problem Solving
-
-Strengthening programming fundamentals and analytical thinking through consistent Java problem-solving practice.
-
-### Topics
-
-- Core Java and Object-Oriented Programming.
-- Arrays and Strings.
-- Subarrays and Array Traversal.
-- Two Pointers.
-- Searching and Sorting.
-- Recursion Fundamentals.
-- Number Manipulation.
-- Pattern Programming.
-- Time and Space Complexity.
-
-### Practice Repositories
-
-| Repository | Description |
-| :--- | :--- |
-| [VCubeLabJava](https://github.com/seshadrinaidu/VCubeLabJava) | Core Java, OOP, daily programming exercises and lab practice |
-| [Java Logic Building](https://github.com/seshadrinaidu/Java-Logic-Building) | Algorithmic thinking, DSA patterns and problem solving |
-| [Java POC Projects](https://github.com/seshadrinaidu/Java-POC-Projects) | Practical Java applications and real-world scenarios |
-
-[![VCubeLabJava](https://img.shields.io/badge/VCubeLabJava-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/VCubeLabJava)
-[![Java Logic Building](https://img.shields.io/badge/Java_Logic_Building-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/Java-Logic-Building)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/seshadrinaidu454)
-
----
-
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=seshadrinaidu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seshadrinaidu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-<!-- ==================== LEARNING ROADMAP ==================== -->
+<!-- ===================================================== -->
+<!--                BACKEND ENGINEERING                    -->
+<!-- ===================================================== -->
+
+## ⚙️ Backend Engineering Capabilities
+
+| Engineering Area | Technical Knowledge |
+| :--- | :--- |
+| ☕ Core Java | OOP, Collections, Constructors, Exception Handling |
+| 🏗️ Architecture | Controller, Service, Repository Layers |
+| 🌐 API Development | REST APIs, CRUD Operations, DTOs |
+| 🗄️ Database | JDBC, JPA, Hibernate, MySQL |
+| 🔐 Security | Spring Security, JWT, Password Hashing |
+| 🛡️ Reliability | Input Validation, Global Exception Handling |
+| 📖 API Documentation | Swagger, OpenAPI |
+| 🧪 API Testing | Postman |
+| 🔄 Version Control | Git, GitHub |
+| 🤖 AI Integration | Spring AI, LLM APIs, RAG |
+
+---
+
+<!-- ===================================================== -->
+<!--                    PROBLEM SOLVING                    -->
+<!-- ===================================================== -->
+
+## 🧠 Data Structures & Problem Solving
+
+Building strong analytical thinking through consistent Java programming and algorithmic practice.
+
+### Practice Areas
+
+![Arrays](https://img.shields.io/badge/Arrays-2563EB?style=flat-square)
+![Strings](https://img.shields.io/badge/Strings-7C3AED?style=flat-square)
+![Two Pointers](https://img.shields.io/badge/Two_Pointers-0891B2?style=flat-square)
+![Subarrays](https://img.shields.io/badge/Subarrays-16A34A?style=flat-square)
+![Searching](https://img.shields.io/badge/Searching-EA580C?style=flat-square)
+![Sorting](https://img.shields.io/badge/Sorting-DC2626?style=flat-square)
+![Recursion](https://img.shields.io/badge/Recursion-9333EA?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-ED8B00?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+### Java Practice Repositories
+
+| Repository | Focus |
+| :--- | :--- |
+| [VCubeLabJava](https://github.com/seshadrinaidu/VCubeLabJava) | Core Java, OOP and daily programming |
+| [Java Logic Building](https://github.com/seshadrinaidu/Java-Logic-Building) | DSA and algorithmic problem solving |
+| [Java POC Projects](https://github.com/seshadrinaidu/Java-POC-Projects) | Practical Java applications |
+| JDBC CRUD | Database connectivity and PreparedStatement |
+
+<div align="center">
+
+[![Java Practice](https://img.shields.io/badge/JAVA_PRACTICE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/seshadrinaidu/VCubeLabJava)
+[![DSA](https://img.shields.io/badge/DSA_PRACTICE-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seshadrinaidu/Java-Logic-Building)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/seshadrinaidu454)
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                    GITHUB STATISTICS                  -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=seshadrinaidu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshadrinaidu&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=seshadrinaidu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seshadrinaidu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                    CURRENT LEARNING                   -->
+<!-- ===================================================== -->
 
 ## 🌱 Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=docker,redis,kafka,aws" alt="Learning Technologies"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,redis,kafka,aws&perline=8" alt="Currently Exploring"/>
+
+</div>
 
 | Technology | Learning Focus |
 | :--- | :--- |
 | Docker | Application Containerization |
 | Redis | Caching |
-| Kafka | Event-Driven Architecture |
+| Apache Kafka | Event-Driven Architecture |
 | AWS | Cloud Deployment |
-| Microservices | Distributed Application Architecture |
-| System Design | Scalable Backend Systems |
+| Microservices | Distributed Backend Architecture |
+| System Design | Backend System Design |
 
 ---
 
-<!-- ==================== CONTACT ==================== -->
+<!-- ===================================================== -->
+<!--                       CONTACT                         -->
+<!-- ===================================================== -->
 
 ## 🤝 Let's Connect
 
-I am open to entry-level software engineering opportunities, technical collaborations, and challenging backend development projects.
+I am open to entry-level Java backend development and software engineering opportunities where I can contribute, collaborate and grow as an engineer.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seshadrinaidu/)
-[![Email](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seshadrinaidu454@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seshadrinaidu/)
+[![Email](https://img.shields.io/badge/CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seshadrinaidu454@gmail.com)
 
-### Understand → Practice → Build → Improve
+<br/>
 
-**Strong fundamentals. Consistent practice. Meaningful engineering.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Understand+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Improve;Strong+Fundamentals.+Meaningful+Engineering.;Thank+You+for+Visiting+My+Profile!" alt="Animated Footer Message"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=120&section=footer&animation=twinkling" width="100%" alt="Animated Footer"/>
 
 </div>
